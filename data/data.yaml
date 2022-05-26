@@ -1,0 +1,5 @@
+train: train-test_data/train/images
+val: train-test_data/valid/images
+test: train-test_data/test/images
+nc: 10
+names: ['Juice','Milk','Softdrink','Teabottle','Waterbottle','Apple','Banana','Lime','Onion','Orange']
